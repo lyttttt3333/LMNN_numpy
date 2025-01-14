@@ -11,7 +11,7 @@ This project implements **LMNN** (Large Margin Nearest Neighbor Classification) 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo-name/lmnn
-   cd lmnn
+   cd lmnn_numpy
 
 2. To run clustering demos, then you can get two images demonstrating the clustering performance:
    ```bash

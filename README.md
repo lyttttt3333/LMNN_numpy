@@ -4,7 +4,7 @@ This project implements **LMNN** (Large Margin Nearest Neighbor Classification) 
 
 ## Highlights
 - Core implementation is in **`lmnn_lmpl.py`**.
-- Utilizes advanced masking techniques and batch operations for high training efficiency.
+- Utilizes advanced **masking techniques** and batch operations for high **training efficiency**. (671.4 epochs / second in sandwish demo)
 
 ## Getting Started
 
